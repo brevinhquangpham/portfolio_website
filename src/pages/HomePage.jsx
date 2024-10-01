@@ -10,7 +10,7 @@ function HomePage() {
                 <div className='md:flex-grow md:w-[45%] md:pl-16 md:pt-24 md:space-y-4'>
                     <div className="flex flex-col justify-center md:justify-start">
                         <h1 className="text-black text-4xl sm:text-6xl md:text-7xl lg:text-9xl font-josefin font-semibold">
-                            Brevypoo
+                            Eva Intoci
                         </h1>
                         <p className="font-josefin text-body_text leading-none">I’m a creative designer pursuing UXUI research, design and related artistic fields. Currently I’m finishing my degree in Interdisciplinary Computing and the Arts at UC San Diego. :)
                         </p>
