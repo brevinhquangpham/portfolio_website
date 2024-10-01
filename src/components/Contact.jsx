@@ -26,11 +26,11 @@ function Contact() {
                     </div>
                     <div className="pr-[20%]">
                         <div className="flex gap-5">
-                            <img src="linkedin.svg" alt="linkedin" />
+                            <img src="/images/Linkedin.svg" alt="linkedin" />
                             <a href="linkedin.com" className="underline font-josefin text-big_text">Connect with me on Linkedin</a>
                         </div>
                         <div className="flex gap-5 pt-6">
-                            <img src="github.svg" alt="github" />
+                            <img src="/images/Github.svg" alt="github" />
                             <a href="github.com" className="underline font-josefin text-big_text">Check out my Github</a>
                         </div>
                     </div>
